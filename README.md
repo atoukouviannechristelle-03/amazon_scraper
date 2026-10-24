@@ -1,6 +1,6 @@
-# Amazon Scraper — Catégorie Technologie
+Amazon Scraper — Catégorie Technologie
 
-Projet pédagogique de l'**Institut Ivoirien de Technologie** (Séance 2 : *Le web scraping, principe et règles du jeu*).
+Projet 1 : Web scraping
 
 Application **console** qui récupère, sur **amazon.fr**, les produits de la catégorie **Technologie** avec **Selenium** (uniquement, sans BeautifulSoup). Les données sont enregistrées dans une base **SQLite**, exportées dans un fichier **CSV**, et les images des produits sont téléchargées dans le dossier `images/`.
 
@@ -43,7 +43,7 @@ Application **console** qui récupère, sur **amazon.fr**, les produits de la ca
 
 Si Amazon n'affiche pas un prix ou des avis pour un produit, la valeur reste vide.
 
-## 3. Arborescence
+## 3. Arborescence demandée
 
 ```
 amazon_scraper/
@@ -189,4 +189,6 @@ Le dépôt doit d'abord être créé (vide) sur github.com. Le `.gitignore` emp�
 
 ## 13. Auteur
 
-À compléter : nom, classe, date.
+**Nom** : ATOUKOUVI Anne-Christelle
+
+**Date** : Samedi 24 Octobre 2026
