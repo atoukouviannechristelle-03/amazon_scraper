@@ -1,6 +1,6 @@
 Amazon Scraper — Catégorie Technologie
 
-Projet 1 : Web scraping
+projet 1: Web scraping
 
 Application **console** qui récupère, sur **amazon.fr**, les produits de la catégorie **Technologie** avec **Selenium** (uniquement, sans BeautifulSoup). Les données sont enregistrées dans une base **SQLite**, exportées dans un fichier **CSV**, et les images des produits sont téléchargées dans le dossier `images/`.
 
